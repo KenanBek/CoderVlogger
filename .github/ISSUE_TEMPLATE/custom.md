@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
+name: Propose a new Topic
 about: Propose title for the topic.
 title: ''
-labels: ''
+labels: 'proposal'
 assignees: ''
 
 ---
