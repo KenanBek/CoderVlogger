@@ -4,6 +4,10 @@ Hi there 👋🏼
 
 This page is all about my writing, posting, live streaming activity. Here you can find notes during live sessions, links, and code snippets.
 
+The most recent stream:
+
+{% page-ref page="live-code/sessions/2021-07-14-golang-integration-tests.md" %}
+
 For more details, check the following links:
 
 GitHub: [https://github.com/KenanBek](https://github.com/KenanBek)   
