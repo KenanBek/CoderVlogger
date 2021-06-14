@@ -6,5 +6,5 @@
 
 * [Where to Watch?](live-code/where-to-watch.md)
 * [Sessions](live-code/sessions/README.md)
-  * [2021-07-14 Golang Integration Tests](live-code/sessions/2021-07-14-golang-integration-tests.md)
+  * [2021-07-14 Go Terminal UI Apps](live-code/sessions/2021-07-14-golang-integration-tests.md)
 
