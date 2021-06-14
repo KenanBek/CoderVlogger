@@ -5,7 +5,7 @@
 This page is all about my writing, posting, live streaming activity. Here you can find notes during live sessions, links, and code snippets.
 
 {% hint style="info" %}
-Click [here]() for the most recent stream.
+Click [here](live-code/sessions/14-june-2021-terminal-user-interfaces-in-golang-with-the-view-package.md) for the most recent stream.
 {% endhint %}
 
 ### Let's Connect 🔗
