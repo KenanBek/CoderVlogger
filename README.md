@@ -1,6 +1,6 @@
 # Initial page
 
-Hi there 👋🏼
+### Hi there 👋🏼
 
 This page is all about my writing, posting, live streaming activity. Here you can find notes during live sessions, links, and code snippets.
 
@@ -8,7 +8,9 @@ This page is all about my writing, posting, live streaming activity. Here you ca
 Click [here]() for the most recent stream.
 {% endhint %}
 
-For more details, check the following links:
+### Let's Connect 🔗
+
+Most of the content shared on GitHub, Twitter, and other social mediums. Feel free to connect.
 
 GitHub: [https://github.com/KenanBek](https://github.com/KenanBek)   
 Twitter: [https://twitter.com/KenanBekk](https://twitter.com/KenanBekk)   
