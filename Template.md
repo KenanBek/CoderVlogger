@@ -1,4 +1,4 @@
-Topic / Stacl / Live Coding Session #NUMBER
+Topic / Stack / Live Coding Session #NUMBER
 
 GitHub: https://github.com/KenanBek
 Twitter: https://twitter.com/KenanBekk
@@ -6,6 +6,7 @@ Subscribe: https://www.getrevue.co/profile/kenanbek​
 
 In this video:
 [ updated after the live stream ]
+https://kenanbek.gitbook.io/codervlogger/live-code/sessions/2021-07-14-golang-tui-apps
 
 Community links:
 - Telegram: https://t.me/codervlogger​
