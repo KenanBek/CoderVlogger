@@ -5,7 +5,7 @@ Hi there 👋🏼
 This page is all about my writing, posting, live streaming activity. Here you can find notes during live sessions, links, and code snippets.
 
 {% hint style="info" %}
-Click [here](live-code/sessions/2021-07-14-golang-tui-apps.md) for the most recent stream.
+Click [here]() for the most recent stream.
 {% endhint %}
 
 For more details, check the following links:
