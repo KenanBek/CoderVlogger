@@ -4,7 +4,7 @@ Hi there 👋🏼
 
 This page is all about my writing, posting, live streaming activity. Here you can find notes during live sessions, links, and code snippets.
 
-For more details check the following links:
+For more details, check the following links:
 
 GitHub: [https://github.com/KenanBek](https://github.com/KenanBek)   
 Twitter: [https://twitter.com/KenanBekk](https://twitter.com/KenanBekk)   
