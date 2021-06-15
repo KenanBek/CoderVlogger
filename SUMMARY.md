@@ -9,3 +9,8 @@
   * [June 2021](live-code/sessions/june-2021/README.md)
     * [Terminal User Interfaces in Golang with the view package](live-code/sessions/june-2021/terminal-user-interfaces-in-golang-with-the-view-package.md)
 
+---
+
+* [GitHub](https://github.com/KenanBek/CoderVlogger)
+* [Propose Topics](https://github.com/KenanBek/CoderVlogger/issues/new/choose)
+
