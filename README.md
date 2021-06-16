@@ -1,4 +1,4 @@
-# Initial page
+# Home
 
 ### Hi there 👋🏼
 
