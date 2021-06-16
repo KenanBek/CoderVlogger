@@ -2,12 +2,12 @@
 
 * [Initial page](README.md)
 
-## Live Code Sessions <a id="live-code"></a>
+## Coding Sessions <a id="coding-code"></a>
 
-* [Where to Watch?](live-code/where-to-watch.md)
-* [Sessions](live-code/sessions/README.md)
-  * [June 2021](live-code/sessions/june-2021/README.md)
-    * [Terminal User Interfaces in Golang with the view package](live-code/sessions/june-2021/terminal-user-interfaces-in-golang-with-the-view-package.md)
+* [Where to Watch?](coding-code/where-to-watch.md)
+* [Live Code](coding-code/live-code/README.md)
+  * [June 2021](coding-code/live-code/june-2021/README.md)
+    * [Terminal User Interfaces in Golang with the view package](coding-code/live-code/june-2021/terminal-user-interfaces-in-golang-with-the-view-package.md)
 
 ---
 

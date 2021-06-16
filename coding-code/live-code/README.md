@@ -2,5 +2,5 @@
 description: Archive of Live Coding sessions.
 ---
 
-# Sessions
+# Live Code
 
