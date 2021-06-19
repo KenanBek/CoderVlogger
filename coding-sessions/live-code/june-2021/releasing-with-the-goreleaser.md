@@ -6,7 +6,7 @@ description: Preparing a new release and releasing with the GoReleaser. 19 June 
 
 In this Live Coding session, I am going to merge completed [dbui](https://github.com/KenanBek/dbui) pull requests and prepare a new release.
 
-The preparation consists of updating the documentaiton and then actually releasing using [GoReleaser](https://goreleaser.com/).
+The preparation consists of updating the documentation and then actually releasing using [GoReleaser](https://goreleaser.com/).
 
 This release of dbui will include:
 
