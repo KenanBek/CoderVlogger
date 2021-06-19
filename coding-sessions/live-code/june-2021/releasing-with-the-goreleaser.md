@@ -14,7 +14,5 @@ This release of dbui will include:
 2. Adding support for one more database type - [SQLite](https://github.com/KenanBek/dbui/pull/31).
 3. And, some other codebase improvements.
 
-
-
-
+[https://www.youtube.com/watch?v=RAKfwNZzZnE](https://www.youtube.com/watch?v=RAKfwNZzZnE)
 
