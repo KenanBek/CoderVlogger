@@ -1,5 +1,5 @@
 ---
-description: Preparing a new release and releasing with the GoReleaser.
+description: Preparing a new release and releasing with the GoReleaser. 19 June 2021.
 ---
 
 # Releasing with the GoReleaser

@@ -1,5 +1,7 @@
 ---
-description: Build Terminal User Interface and CLI apps using Golang and tview package.
+description: >-
+  Build Terminal User Interface and CLI apps using Golang and tview package. 14
+  June 2021.
 ---
 
 # Terminal User Interfaces in Golang with the view package
