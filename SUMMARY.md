@@ -7,6 +7,7 @@
 * [Where to Watch?](coding-sessions/where-to-watch.md)
 * [Live Code](coding-sessions/live-code/README.md)
   * [June 2021](coding-sessions/live-code/june-2021/README.md)
+    * [Golang Database Integration Tests with Docker](coding-sessions/live-code/june-2021/golang-database-integration-tests-with-docker.md)
     * [Releasing with the GoReleaser](coding-sessions/live-code/june-2021/releasing-with-the-goreleaser.md)
     * [Terminal User Interfaces in Golang with the view package](coding-sessions/live-code/june-2021/terminal-user-interfaces-in-golang-with-the-view-package.md)
 
